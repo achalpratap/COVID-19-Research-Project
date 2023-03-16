@@ -45,6 +45,13 @@ The Project_dashboard.pdf file shows on the Dashboard looks like:
 ![Screenshot 2023-03-16 111524](https://user-images.githubusercontent.com/125743309/225526136-aff6cf68-968e-4502-8a2d-5683e725de62.jpg)
 
 
+## Covid-19 Reserch Project Presentation
+
+Link to access the Project Presentation :
+
+[Presentation link](https://drive.google.com/file/d/1Ht2ojAoBcGXF33rMLNf8bJqrv5mCZ1Kh/view?usp=sharing)
+
+
 ## Feedback
 
 If you have any feedback, please reach out to us at singhachal338@gmail.com
