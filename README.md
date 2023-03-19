@@ -42,7 +42,7 @@ The data analysis project on COVID-19 aims to provide insights into the global i
 
 The Project_dashboard.pdf file shows on the Dashboard looks like:
 
-![Screenshot 2023-03-16 111524](https://user-images.githubusercontent.com/125743309/225526136-aff6cf68-968e-4502-8a2d-5683e725de62.jpg)
+<img src="https://user-images.githubusercontent.com/125743309/226151748-76d45c12-237a-4d00-97d0-471f1c07c785.png" width="750" />
 
 
 
